@@ -17,3 +17,7 @@ install by
 
 # Deep Computer Vision
 - Building a Deep Computer Vision model to classify between the characters in the popular TV series The Simpsons.
+
+# canaro - 
+install by 
+<pre>$ pip install canaro</pre>
