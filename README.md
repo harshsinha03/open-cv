@@ -15,5 +15,5 @@ install by
 <pre>$ pip install caer</pre>
 
 
-###Deep Computer Vision
+**Deep Computer Vision
 - Building a Deep Computer Vision model to classify between the characters in the popular TV series The Simpsons.
