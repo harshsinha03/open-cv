@@ -21,3 +21,7 @@ install by
 # canaro - 
 install by 
 <pre>$ pip install canaro</pre>
+
+# you can download the images from this link
+
+https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
