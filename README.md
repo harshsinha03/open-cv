@@ -13,3 +13,7 @@ cd to the directory where requirements.txt is located.
 Computer Vision library with powerful Image and Video processing operations
 install by 
 <pre>$ pip install caer</pre>
+
+
+###Deep Computer Vision
+- Building a Deep Computer Vision model to classify between the characters in the popular TV series The Simpsons.
