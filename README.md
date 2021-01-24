@@ -4,7 +4,9 @@
 
 if you do not have any of the packages that are mentioned below.
 download the repo from github and take the requirements.txt file and run this command on the terminal
-<pre>$ pip install caer</pre>
+cd to the directory where requirements.txt is located.
+
+<pre>$ pip install -r requirements.txt</pre>
 
 **caer - 
 
